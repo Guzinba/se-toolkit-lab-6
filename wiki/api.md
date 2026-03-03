@@ -8,6 +8,7 @@
 - [Base URL](#base-url)
 - [What is an API key](#what-is-an-api-key)
   - [`<api-key>`](#api-key)
+- [`FastAPI`](#fastapi)
 
 ## What is an API
 
@@ -65,3 +66,7 @@ Example:
 ### `<api-key>`
 
 The value that you use to authenticate in the API.
+
+## `FastAPI`
+
+<!-- TODO -->
