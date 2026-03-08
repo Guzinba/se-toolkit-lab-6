@@ -6,6 +6,8 @@
 - [Model](#model)
   - [Choose a model](#choose-a-model)
   - [Free models](#free-models)
+- [LLM provider API](#llm-provider-api)
+- [Request to LLM provider API](#request-to-llm-provider-api)
 - [Token](#token)
 - [Context](#context)
   - [Context window](#context-window)
@@ -38,6 +40,14 @@ Choose a model for the task at hand.
 ### Free models
 
 [`OpenRouter`](https://openrouter.ai/) provides [free models](https://openrouter.ai/collections/free-models).
+
+## LLM provider API
+
+<!-- TODO -->
+
+## Request to LLM provider API
+
+<!-- TODO -->
 
 ## Token
 
