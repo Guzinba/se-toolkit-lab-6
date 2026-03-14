@@ -14,3 +14,12 @@
 ```bash
 cd ~/qwen-code-oai-proxy
 docker compose up -d
+# Documentation Agent CLI
+
+## Overview
+`agent.py` answers questions using LLM with tool calling (`read_file`, `list_files`).
+
+## Setup
+```bash
+cp .env.agent.example .env.agent.secret
+uv sync
